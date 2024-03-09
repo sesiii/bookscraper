@@ -12,7 +12,7 @@ Run the project spider: scrapy crawl bookspider
 
 
 ## Helpful Dubugging
-f you have issues running the pip install -r requirements.txt command this can be due to some things not being up to date on your computer.
+If you have issues running the pip install -r requirements.txt command this can be due to some things not being up to date on your computer.
 
 Running the following may solve some of these issues:
 
