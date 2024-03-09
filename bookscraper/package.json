@@ -1,0 +1,8 @@
+{
+    "name": "scrapy-runner",
+    "version": "1.0.0",
+    "description": "A Node.js project for running Scrapy",
+    "scripts": {
+      "start": "scrapy crawl bookscraper"
+    }
+  }
